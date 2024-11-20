@@ -10,6 +10,7 @@
   <img align="center" alt="Will-HTML" height="30" width="40" src="https://www.svgrepo.com/show/349402/html5.svg">
   <img align="center" alt="Will-CSS" height="30" width="40" src="https://www.svgrepo.com/show/349330/css3.svg">
   <img align="center" alt="Will-Python" height="30" width="40" src="https://www.svgrepo.com/show/374016/python.svg">
+  <img align="center" alt="Will-Django" height="30" width="40" src="https://www.svgrepo.com/show/373554/django.svg">
   <img align="center" alt="Will-CSharp" height="30" width="40" src="https://www.svgrepo.com/show/452184/csharp.svg">
   <img align="center" alt="Will-DotNet" height="30" width="40" src="https://www.svgrepo.com/show/376369/dotnet.svg">
     
