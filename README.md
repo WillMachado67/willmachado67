@@ -102,7 +102,7 @@ Olá! Eu sou Willian Machado, um desenvolvedor apaixonado por tecnologia e progr
 
 <!-- Animações para o perfil - Versão responsiva que se adapta ao tema claro/escuro -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WillMachado67/WillMachado67/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WillMachado67/WillMachado67/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/WillMachado67/WillMachado67/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
 </picture>
