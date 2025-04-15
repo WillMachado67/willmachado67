@@ -36,21 +36,57 @@ Olá! Eu sou Willian Machado, um desenvolvedor apaixonado por tecnologia e progr
 ## Projetos em Destaque
 
 <div align="center">
-  <a href="https://github.com/WillMachado67/Batalha-pokemon">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WillMachado67&repo=Batalha-pokemon&theme=dark" />
-  </a>
-  <a href="https://github.com/WillMachado67/xml-excel-report-tool">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WillMachado67&repo=xml-excel-report-tool&theme=dark" />
-  </a>
-  <br><br>
-  <a href="https://github.com/WillMachado67/curso-Django-projeto1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WillMachado67&repo=curso-Django-projeto1&theme=dark" />
-  </a>
-  <a href="https://github.com/WillMachado67/api-lunettes-by-lary">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WillMachado67&repo=api-lunettes-by-lary&theme=dark" />
-  </a>
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🎮 Batalha Pokémon</h3>
+        <p align="center">
+          <a href="https://github.com/WillMachado67/Batalha-pokemon">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=WillMachado67&repo=Batalha-pokemon&theme=dark" alt="Batalha Pokémon" />
+          </a>
+          <p align="center">
+            Um jogo de batalha inspirado no universo Pokémon, desenvolvido com foco em conceitos de orientação a objetos.
+          </p>
+        </p>
+      </td>
+      <td width="50%">
+        <h3 align="center">📊 XML Excel Report Tool</h3>
+        <p align="center">
+          <a href="https://github.com/WillMachado67/xml-excel-report-tool">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=WillMachado67&repo=xml-excel-report-tool&theme=dark" />
+          </a>
+          <p align="center">
+            Ferramenta para conversão de dados XML em relatórios Excel estruturados e de fácil análise.
+          </p>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🌐 Projeto Django</h3>
+        <p align="center">
+          <a href="https://github.com/WillMachado67/curso-Django-projeto1">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=WillMachado67&repo=curso-Django-projeto1&theme=dark" />
+          </a>
+          <p align="center">
+            Aplicação web desenvolvida com Django, demonstrando conhecimentos em desenvolvimento backend com Python.
+          </p>
+        </p>
+      </td>
+      <td width="50%">
+        <h3 align="center">🛍️ API Lunettes by Lary</h3>
+        <p align="center">
+          <a href="https://github.com/WillMachado67/api-lunettes-by-lary">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=WillMachado67&repo=api-lunettes-by-lary&theme=dark" />
+          </a>
+          <p align="center">
+            API REST desenvolvida para e-commerce de óculos, integrando sistemas de pagamento e gerenciamento de estoque.
+          </p>
+        </p>
+      </td>
+    </tr>
+  </table>
 </div>
-<br>
 
 ## Contato
 
@@ -66,7 +102,7 @@ Olá! Eu sou Willian Machado, um desenvolvedor apaixonado por tecnologia e progr
 
 <!-- Animações para o perfil - Versão responsiva que se adapta ao tema claro/escuro -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WillMachado67/WillMachado67/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WillMachado67/WillMachado67/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/WillMachado67/WillMachado67/output/github-contribution-grid-snake.svg">
 </picture>
