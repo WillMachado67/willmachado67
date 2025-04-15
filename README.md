@@ -1,4 +1,4 @@
-[# Willian Machado
+# Willian Machado
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor+Full+Stack;Sempre+aprendendo+coisas+novas&font=Fira%20Code&center=true&width=380&height=50">
@@ -16,9 +16,9 @@ Olá! Eu sou Willian Machado, um desenvolvedor apaixonado por tecnologia e progr
 ## Estatísticas GitHub
 
 <div align="center">
-  <a href="https://github.com/willmachado67">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=willmachado67&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willmachado67&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/WillMachado67">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=WillMachado67&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillMachado67&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 ## Tecnologias e Ferramentas
@@ -36,11 +36,18 @@ Olá! Eu sou Willian Machado, um desenvolvedor apaixonado por tecnologia e progr
 ## Projetos em Destaque
 
 <div align="center">
-  <a href="https://github.com/willmachado67/projeto1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=willmachado67&repo=projeto1&theme=dark" />
+  <a href="https://github.com/WillMachado67/Batalha-pokemon">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WillMachado67&repo=Batalha-pokemon&theme=dark" />
   </a>
-  <a href="https://github.com/willmachado67/projeto2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=willmachado67&repo=projeto2&theme=dark" />
+  <a href="https://github.com/WillMachado67/xml-excel-report-tool">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WillMachado67&repo=xml-excel-report-tool&theme=dark" />
+  </a>
+  <br><br>
+  <a href="https://github.com/WillMachado67/curso-Django-projeto1">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WillMachado67&repo=curso-Django-projeto1&theme=dark" />
+  </a>
+  <a href="https://github.com/WillMachado67/api-lunettes-by-lary">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WillMachado67&repo=api-lunettes-by-lary&theme=dark" />
   </a>
 </div>
 <br>
@@ -54,8 +61,8 @@ Olá! Eu sou Willian Machado, um desenvolvedor apaixonado por tecnologia e progr
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=willmachado67&label=Visualizações+de+perfil&color=0e75b6&style=flat" alt="willmachado67" />
+  <img src="https://komarev.com/ghpvc/?username=WillMachado67&label=Visualizações+de+perfil&color=0e75b6&style=flat" alt="WillMachado67" />
 </div>
 
-![Snake animation](https://github.com/willmachado67/blob/output/github-contribution-grid-snake.svg)
-](https://github.com/WillMachado67)
+<!-- Animações para o perfil -->
+![Snake animation](https://github.com/WillMachado67/WillMachado67/blob/output/github-contribution-grid-snake.svg)
