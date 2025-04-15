@@ -65,4 +65,4 @@ Olá! Eu sou Willian Machado, um desenvolvedor apaixonado por tecnologia e progr
 </div>
 
 <!-- Animações para o perfil -->
-![Snake animation](https://github.com/WillMachado67/WillMachado67/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/WillMachado67/WillMachado67/output/github-contribution-grid-snake.svg)
