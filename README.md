@@ -64,5 +64,9 @@ Olá! Eu sou Willian Machado, um desenvolvedor apaixonado por tecnologia e progr
   <img src="https://komarev.com/ghpvc/?username=WillMachado67&label=Visualizações+de+perfil&color=0e75b6&style=flat" alt="WillMachado67" />
 </div>
 
-<!-- Animações para o perfil -->
-![Snake animation](https://raw.githubusercontent.com/WillMachado67/WillMachado67/output/github-contribution-grid-snake.svg)
+<!-- Animações para o perfil - Versão responsiva que se adapta ao tema claro/escuro -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WillMachado67/WillMachado67/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WillMachado67/WillMachado67/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/WillMachado67/WillMachado67/output/github-contribution-grid-snake.svg">
+</picture>
